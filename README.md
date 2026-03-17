@@ -1,6 +1,6 @@
 # Toxic metal mixtures in private well water and increased risk for preterm birth in North Carolina
 
-Code and data for manuscript: Toxic metal mixtures in private well water and increased risk for preterm birth in North Carolina, which was published in Environmental Health in 2024 (PMID: 37845729). doi: 10.1186/s12940-023-01021-7
+This code was generated to support the manuscript entitled, "Toxic metal mixtures in private well water and increased risk for preterm birth in North Carolina", which was published in Environmental Health in 2024 (PMID: 37845729). doi: 10.1186/s12940-023-01021-7
 
 > Eaves LA, Keil AP, Jukic AM, Dhingra R, Brooks JL, Manuck TA, Rager JE, Fry RC. Toxic metal mixtures in private well water and increased risk for preterm birth in North Carolina. Environ Health. 2023 Oct 16;22(1):69. doi: 10.1186/s12940-023-01021-7. PMID: 37845729; PMCID: PMC10577978.
 
